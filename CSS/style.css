@@ -187,6 +187,7 @@ ul {
   font-size: 30px;
   letter-spacing: 5px;
   position: relative;
+  text-decoration: none;
 }
 
 .aside .logo a span {
@@ -289,6 +290,7 @@ ul {
   border-bottom: 1px solid var(--bg-black-50);
   color: var(--text-black-900);
   padding: 5px 15px;
+  text-decoration: none;
 }
 
 .aside .nav li a.active {
@@ -771,7 +773,7 @@ h3.my-profession {
   }
 }
 
-@media (max-width: 1098px) {
+@media (max-width: 1251px) {
   .home .home-info {
     flex: 0 0 100%;
     max-width: 100%;
